@@ -6,7 +6,6 @@ Only the latest version is supported, all passed versions will not be updated, n
 Just use the latest version
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
+until we have a vulnerability reporting in place please send them to
 mailto://frank.luther@siemens.com
 
